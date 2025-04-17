@@ -16,5 +16,3 @@ Especializado en:
 3. Monitoriza:
    - Voltajes (12V/5V/3.3V)
    - Ripple (variaciones >5% = peligroso)
-
-![Power Test](https://i.imgur.com/OCCT-power.png)
