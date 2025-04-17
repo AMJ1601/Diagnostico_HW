@@ -9,8 +9,6 @@ Herramienta profesional para:
 2. Instalador de 45MB
 3. Versión de prueba 30 días
 
-![Interfaz](https://i.imgur.com/AIDA64-ui.png)
-
 ## Uso Básico
 **Prueba de estabilidad**:
 1. Tools > System Stability Test
