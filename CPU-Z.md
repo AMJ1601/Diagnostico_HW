@@ -12,8 +12,6 @@ CPU-Z es un software ligero para analizar hardware, ideal para:
    - Selecciona carpeta
    - Marca "Launch CPU-Z"
 
-![Instalación](https://i.imgur.com/CPUZ-install.png)
-
 ## Uso Básico
 1. **Pestaña CPU**:
    - Verifica modelo y frecuencia
